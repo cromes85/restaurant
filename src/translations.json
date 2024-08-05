@@ -1,0 +1,38 @@
+{
+  "en": {
+    "menu": "Restaurant Menu",
+    "reserveButton": "Reserve a Table",
+    "margherita": "Margherita Pizza",
+    "pepperoni": "Pepperoni Pizza",
+    "caesar": "Caesar Salad",
+    "carbonara": "Spaghetti Carbonara",
+    "margheritaDetail": "Classic pizza with fresh ingredients and a crispy crust.",
+    "pepperoniDetail": "Spicy pepperoni with a perfect blend of cheese and sauce.",
+    "caesarDetail": "Fresh romaine lettuce with homemade Caesar dressing.",
+    "carbonaraDetail": "Traditional Italian pasta with a creamy carbonara sauce."
+  },
+  "fr": {
+    "menu": "Menu du Restaurant",
+    "reserveButton": "Réserver une Table",
+    "margherita": "Pizza Margherita",
+    "pepperoni": "Pizza Pepperoni",
+    "caesar": "Salade César",
+    "carbonara": "Spaghetti Carbonara",
+    "margheritaDetail": "Pizza classique avec des ingrédients frais et une croûte croustillante.",
+    "pepperoniDetail": "Pepperoni épicé avec un mélange parfait de fromage et de sauce.",
+    "caesarDetail": "Laitue romaine fraîche avec une vinaigrette César maison.",
+    "carbonaraDetail": "Pâtes italiennes traditionnelles avec une sauce carbonara crémeuse."
+  },
+  "nl": {
+    "menu": "Restaurantmenu",
+    "reserveButton": "Reserveer een Tafel",
+    "margherita": "Margherita Pizza",
+    "pepperoni": "Pepperoni Pizza",
+    "caesar": "Caesar Salade",
+    "carbonara": "Spaghetti Carbonara",
+    "margheritaDetail": "Klassieke pizza met verse ingrediënten en een knapperige korst.",
+    "pepperoniDetail": "Pittige pepperoni met een perfecte mix van kaas en saus.",
+    "caesarDetail": "Verse romeinse sla met zelfgemaakte Caesarsaus.",
+    "carbonaraDetail": "Traditionele Italiaanse pasta met een romige carbonarasaus."
+  }
+}

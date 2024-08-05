@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.tooltip {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: none;
+  z-index: 1000;
+  white-space: nowrap;
+}
+
+.language-selector {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+}
+
+.language-selector button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #282c34;
+  color: white;
+}
+
+.language-selector button:hover {
+  background-color: #444;
+}

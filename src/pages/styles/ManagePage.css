@@ -1,0 +1,38 @@
+.manage-page {
+    padding: 20px;
+  }
+  
+  .manage-page h1, .manage-page h2 {
+    color: #282c34;
+  }
+  
+  .manage-page .table-layout {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .manage-page .table {
+    background: #f8f8f8;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .manage-page .reservations {
+    margin-top: 20px;
+  }
+  
+  .manage-page .reservation {
+    background: #f8f8f8;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
